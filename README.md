@@ -10,9 +10,8 @@
  
 >
   
- I am able to use  `.js`, `.html`, `.css` <br>
+ I am able to use  `.js`, `.html`, `.css`, `ReactJS` <br>
  Currently studying `node.js` and `SQL`<b> <br>
- Looking forward to study `React JS`<br> <br>
 
 <br>
   <a href="https://www.linkedin.com/in/renanmarvila/"><img align="left" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
