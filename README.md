@@ -10,8 +10,8 @@
  
 >
   
- I am able to use  `.js`, `.html`, `.css`, `ReactJS` <br>
- Currently studying `.ts` and `Vue`<b> <br>
+ I am able to use  `.js`, `.ts`, `.html`, `.css`, `ReactJS` <br>
+ Currently studying `Vue`<b> <br>
 
 <br>
   <a href="https://www.linkedin.com/in/renanmarvila/"><img align="left" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
